@@ -1,0 +1,33 @@
+.style-header {
+  display: flex;
+  padding: 0px 52px 20px 53px;
+  justify-content: center;
+  align-items: center;
+  background: var(--dark-blue, #005564);
+  color: white;
+}
+
+.style-article-title {
+  padding-bottom: 20px;
+}
+
+.style-product {
+  background: var(--green, #a0d187);
+}
+
+.style-footer {
+  background: var(--light-blue, #c0d9d9);
+  padding: 40px 50px;
+}
+
+.style-footer-title {
+  padding-bottom: 20px;
+}
+
+.style-product.productOnion.is-active {
+  background: var(--red, #cf9697);
+}
+
+.style-product.productClassic.is-active {
+  background: var(--light-blue, #c0d9d9);
+}

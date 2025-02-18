@@ -1,0 +1,47 @@
+h1,
+h2,
+h3 {
+  font-family: "Francois One", serif;
+}
+
+h2,
+h3,
+p,
+i {
+  color: var(--dark-blue, #005564);
+}
+
+i {
+  font-size: 18px;
+  font-weight: 900;
+}
+
+h1 {
+  font-size: 70px;
+  line-height: 140px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+h2 {
+  font-size: 50px;
+  line-height: 70.9px;
+  letter-spacing: 0%;
+}
+
+h3 {
+  font-size: 35px;
+  line-height: 49.63px;
+  letter-spacing: 0%;
+  text-align: center;
+}
+
+p,
+.footer h3 {
+  font-family: "Nunito Sans", serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24.55px;
+  letter-spacing: 0%;
+  text-align: center;
+}
